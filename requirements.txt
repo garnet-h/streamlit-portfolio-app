@@ -1,0 +1,9 @@
+# Use these specific versions for stability
+numpy==1.24.3
+streamlit==1.24.1
+pandas==2.0.3
+plotly==5.15.0
+gspread==5.7.2
+google-auth==2.22.0
+openai==0.27.0
+python-dotenv==1.0.0
