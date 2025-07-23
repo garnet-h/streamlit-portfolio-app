@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+
+# Environment
+.env
+.env.*
+secrets.toml
+*.key
+*.pem
+*.json
+
+# Logs
+*.log
+error_log.txt
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# System
+.DS_Store
